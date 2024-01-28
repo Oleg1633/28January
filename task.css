@@ -1,0 +1,9 @@
+input:invalid {
+    border: 2px dashed red;
+    color: red;
+    font-weight: bold
+}
+select:invalid{
+    border: 2px dashed red;
+    color: red;
+}
